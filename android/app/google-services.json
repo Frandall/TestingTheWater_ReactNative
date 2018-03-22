@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "456426625754",
+    "firebase_url": "https://bahaso-absen.firebaseio.com",
+    "project_id": "bahaso-absen",
+    "storage_bucket": "bahaso-absen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456426625754:android:f5b71e932189fec0",
+        "android_client_info": {
+          "package_name": "com.absenbahaso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456426625754-fflacjkvkc4bsebkea4brnkio7qa9ct3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absenbahaso",
+            "certificate_hash": "963e9e342c28b2cba6b56f85faedd2a23496fc28"
+          }
+        },
+        {
+          "client_id": "456426625754-gs2nq3r6jivkrivf31djcttm5hu5h5oc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "456426625754-p0inocq91afcvgemlnhks8krsoar51q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYUAWJI0jL00voqrxHpqbbdR2JmhSPVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456426625754-gs2nq3r6jivkrivf31djcttm5hu5h5oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
