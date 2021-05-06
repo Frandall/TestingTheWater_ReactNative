@@ -10,7 +10,7 @@
     "eslint-config-rallycoding": "^3.2.0",
     "firebase": "^4.9.1",
     "geolib": "^2.0.24",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "moment": "^2.20.1",
     "react": "16.2.0",
     "react-native": "0.53.0",
